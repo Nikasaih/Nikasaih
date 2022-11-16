@@ -11,7 +11,7 @@
       <a href="#"><img alt="Spring" src="https://img.shields.io/badge/Unity-232d36.svg?logo=unity&logoColor=white"></a>
          <a href="#"><img alt="Spring" src="https://img.shields.io/badge/Docker-089ced.svg?logo=docker&logoColor=white"></a>
 </div>
-
+ <!-- 
 <details>
   <summary>☎️ contact me</summary>
 <div>
@@ -22,48 +22,15 @@
       <a href="nikasaih@gmail.com" target="blank"><img align="center"
          src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
          alt="azzar" height="30"/></a>
-         <!-- <a href="https://twitter.com/siapa_hayosiapa" target="blank"><img align="center"
+        <a href="https://twitter.com/siapa_hayosiapa" target="blank"><img align="center"
          src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"
          alt="azzar" height="30"/></a>
       <br>
-      -->
     </p>
   </samp>
 </div>
 </details>
-
-<details>
-  <summary>🧮 about</summary>
-<div>
-<samp>
-<h2 align="center">About this Account</h2>
- <p align="center">
-  <a href="github.com/Nikasaih" target="blank"><img align="center" 
-     src="https://komarev.com/ghpvc/?username=Nikasaih&style=for-the-badge&label=PROFILE+VIEWS" height="25"
-     alt="views count" /></a>
-  <a href="https://Nikasaih.github.io/Nikasaih/"><img align="center" 
-     src="https://img.shields.io/website?down_message=offline&style=for-the-badge&up_message=online&url=https%3A%2F%2FNikasaih.github.io%2FNikasaih%2F" height="25"
-     alt="website" /></a>
-  </p>
-  <p align="center">
-  <a href="https://www.codefactor.io/repository/github/Nikasaih/Nikasaih/overview/main"><img align="center"
-     src="https://www.codefactor.io/repository/github/Nikasaih/Nikasaih/badge/main" height="25"
-     alt="CodeFactor" /></a>
-  <a href="github.com/Nikasaih" target="blank"><img align="center" 
-     src="https://github.com/Nikasaih/Nikasaih/actions/workflows/pages/pages-build-deployment/badge.svg" height="25"
-     alt="page built"/></a>
-  </p>
- <p align="center">
-  <a href="github.com/Nikasaih" target="blank"><img align="center" 
-     src="https://img.shields.io/github/license/Nikasaih/Nikasaih?color=purple&style=for-the-badge" height="25"
-     alt="lisense" /></a>
-  <a href="github.com/Nikasaih"><img align="center"
-     src="https://forthebadge.com/images/badges/works-on-my-machine.svg" height="25"
-     alt="work on my machine" /></a>
- </p>
- </samp>
-</div>
-</details>
+  -->
   
 <details> 
   <summary>💻 GitHub Profile Stats</summary>
