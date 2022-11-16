@@ -1,12 +1,15 @@
 <div align="center">
 <h1 align="center">Hi, I'm Nikasaih</h1>
-<h4 align="center">a freelance developer an also an engineering students at yogyakarta state university, see my <a href="https://github.com/Nikasaih/Nikasaih/blob/main/assets/doc/azzar_resume.pdf" target="_blank">resume</a> for more</h4>
+<h4 align="center">A french student developer at Sup-deVinci (Paris), see my <a href="https://github.com/Nikasaih/Nikasaih/blob/main/assets/doc/resume.pdf" target="_blank">resume</a> for more</h4>
 </div>
 
-<div align="center">
-  <a href="https://Nikasaih.github.io/Nikasaih/">
-  <img  src="https://github.com/Nikasaih/Nikasaih/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
+<div>
+ <summary> 🛠 Tools I like ⚒</summary>
+   <a href="#"><img alt="React" src="https://img.shields.io/badge/React-2596be.svg?logo=react&logoColor=white"></a>
+   <a href="#"><img alt="Express" src="https://img.shields.io/badge/Express-333233.svg?logo=express&logoColor=white"></a>
+   <a href="#"><img alt="Spring" src="https://img.shields.io/badge/SpringBoot-6db33f.svg?logo=spring&logoColor=white"></a>
+      <a href="#"><img alt="Spring" src="https://img.shields.io/badge/Unity-232d36.svg?logo=unity&logoColor=white"></a>
+         <a href="#"><img alt="Spring" src="https://img.shields.io/badge/Docker-089ced.svg?logo=docker&logoColor=white"></a>
 </div>
 
 <details>
@@ -107,14 +110,13 @@
 <br/>
   </samp>
   </details>
-<br/>
 
 <details>
-  <summary>📈 My trophies</summary>
+  <summary>🏆 My trophies</summary>
   <samp>
   <br/>
   <h2 align="center"> latest contribution </h2>
-  <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SubhadeepZilong&layout=compact&theme=algolia" alt="SubhadeepZilong" /></a> </p>
+  <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Nikasaih&layout=compact&theme=algolia" alt="Nikasaih" /></a> </p>
 <br/>
   </samp>
   </details>
