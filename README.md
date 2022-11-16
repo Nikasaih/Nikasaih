@@ -1,5 +1,5 @@
 <div align="center">
-<h1 align="center">Hi <img width="35" src="https://github.com/Nikasaih/Nikasaih/blob/main/resources/img/waving.gif">, I'm Azzar</h1>
+<h1 align="center">Hi, I'm Nikasaih</h1>
 <h4 align="center">a freelance developer an also an engineering students at yogyakarta state university, see my <a href="https://github.com/Nikasaih/Nikasaih/blob/main/assets/doc/azzar_resume.pdf" target="_blank">resume</a> for more</h4>
 </div>
 
@@ -8,8 +8,6 @@
   <img  src="https://github.com/Nikasaih/Nikasaih/blob/main/resources/img/grid-snake.svg"
        alt="snake" /></a>
 </div>
-
----
 
 <details>
   <summary>☎️ contact me</summary>
@@ -110,9 +108,15 @@
   </samp>
   </details>
 <br/>
+
+<details>
+  <summary>📈 My trophies</summary>
+  <samp>
+  <br/>
+  <h2 align="center"> latest contribution </h2>
+  <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SubhadeepZilong&layout=compact&theme=algolia" alt="SubhadeepZilong" /></a> </p>
+<br/>
+  </samp>
+  </details>
+
 </details>
-
----
-
-Credits: [Nikasaih](https://github.com/Nikasaih)
-Last Edited on: 23/09/2022
