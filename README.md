@@ -6,10 +6,10 @@
 <div>
  <summary> 🛠 Tools I like ⚒</summary>
 <br>
-  <a href="#"><img alt="React" src="https://img.shields.io/badge/React-2596be.svg?logo=react&logoColor=white"></a>
-  <a href="#"><img alt="Express" src="https://img.shields.io/badge/Express-333233.svg?logo=express&logoColor=white"></a>
-  <a href="#"><img alt="SpringBoot" src="https://img.shields.io/badge/SpringBoot-6db33f.svg?logo=spring&logoColor=white"></a>
-  <a href="#"><img alt="UnityEngine" src="https://img.shields.io/badge/Unity-232d36.svg?logo=unity&logoColor=white"></a>
+  <a href="#"><img alt="React:js&ts" src="https://img.shields.io/badge/React-2596be.svg?logo=react&logoColor=white"></a>
+  <a href="#"><img alt="Express:js&ts" src="https://img.shields.io/badge/Express-333233.svg?logo=express&logoColor=white"></a>
+  <a href="#"><img alt="SpringBoot:java" src="https://img.shields.io/badge/SpringBoot-6db33f.svg?logo=spring&logoColor=white"></a>
+  <a href="#"><img alt="UnityEngine:c#" src="https://img.shields.io/badge/Unity-232d36.svg?logo=unity&logoColor=white"></a>
   <a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-089ced.svg?logo=docker&logoColor=white"></a>
 
 </div>
